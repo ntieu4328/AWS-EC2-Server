@@ -4,6 +4,14 @@
 The project consists of creating an AWS EC2 server instance. You can use the server for cybersecurity, virtual servers, and managing cookies.
 <br/>
 
+<h2>Table of contents:</h2>
+
+[What is AWS EC2?](what-is-aws-ec2?)
+
+[Why would you use it?](why-would-you-use-it?)
+
+[Set Up](set-up:)
+
 <h2>What is AWS EC2?</h2>
 AWS EC2 is resizable compute capacity in the cloud.
 <br/>
@@ -17,7 +25,7 @@ AWS EC2 is resizable compute capacity in the cloud.
 - It's very secure because it's provided by Amazon
 - You can access it from anywhere
 
-<h2>Set Up</h2>
+<h2>Set Up:</h2>
 
 1. Go to [AWS sign in page](https://signin.aws.amazon.com/signin?redirect_uri=https%3A%2F%2Fconsole.aws.amazon.com%2Fconsole%2Fhome%3FhashArgs%3D%2523%26isauthcode%3Dtrue%26nc2%3Dh_ct%26src%3Dheader-signin%26state%3DhashArgsFromTB_us-east-2_1e9033bf1efdf7a6&client_id=arn%3Aaws%3Asignin%3A%3A%3Aconsole%2Fcanvas&forceMobileApp=0&code_challenge=zl8TQMFJ3wIvus8czNqQLoM3FI_8pvtMJEYumj0zSQ4&code_challenge_method=SHA-256). Sign in if you already have an account or create an AWS account. When you create a new account it will ask for credit card information.
 
