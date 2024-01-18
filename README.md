@@ -6,11 +6,11 @@ The project consists of creating an AWS EC2 server instance. You can use the ser
 
 <h2>Table of contents:</h2>
 
-[What is AWS EC2?](what-is-aws-ec2?)
+[What is AWS EC2?](#what-is-aws-ec2)
 
-[Why would you use it?](why-would-you-use-it?)
+[Why would you use it?](#why-would-you-use-it)
 
-[Set Up](set-up:)
+[Set Up](#set-up)
 
 <h2>What is AWS EC2?</h2>
 AWS EC2 is resizable compute capacity in the cloud.
