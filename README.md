@@ -99,4 +99,4 @@ Choosing this way to connect to the EC2 instance brings up a browser-based clien
 
 Copy the command under "Example" and input that into the terminal. Choosing this way allows you to SSH into the server.
 
-<b>You have now created an AWS EC2 server!!!</b>
+<b>AWS EC2 server has been created!!!</b>
